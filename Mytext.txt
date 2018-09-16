@@ -1,1 +1,3 @@
  My text - changed for commiting with GIT.
+
+new changes.
