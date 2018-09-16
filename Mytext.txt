@@ -1,0 +1,12 @@
+ Volume in drive D is DATA
+ Volume Serial Number is E834-DF21
+
+ Directory of D:\Softwares\Jenkins\Java program
+
+09/16/2018  11:13 AM    <DIR>          .
+09/16/2018  11:13 AM    <DIR>          ..
+09/16/2018  12:04 AM               686 Helloworld.class
+09/16/2018  12:02 AM               150 Helloworld.java
+09/16/2018  11:13 AM                 0 Mytext.txt
+               3 File(s)            836 bytes
+               2 Dir(s)  958,078,279,680 bytes free
